@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '9752'
     url: http://www.gutenberg.org/2009/agents/9752
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21134#Working-in-the-ShadeLowly-Sowing-brings-Glorious-Reaping
 gutenberg_issued: '2007-04-18'
 gutenberg_type: Text
 identifiers:
