@@ -1,0 +1,33 @@
+_repo: Working-in-the-ShadeLowly-Sowing-brings-Glorious-Reaping_21134
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wilson, Theodore P.
+    alias: Wilson, T. P.
+    gutenberg_agent_id: '9752'
+    url: http://www.gutenberg.org/2009/agents/9752
+description: ''
+gutenberg_issued: '2007-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21134'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Social classes -- Juvenile fiction'
+- !lcsh 'Kindness -- Juvenile fiction'
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'England -- Social life and customs -- 19th century -- Juvenile fiction'
+- !lcsh 'Selfishness -- Juvenile fiction'
+title: 'Working in the Shade
+
+  Lowly Sowing brings Glorious Reaping'
+url: http://www.gutenberg.org/ebooks/21134
